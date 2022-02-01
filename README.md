@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skullfac3
-- 👀 I’m interested in learn Pthon.
+- 👀 I’m interested in learn Python.
 - 🌱 I’m currently learning Python, JS, and PHP.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...
