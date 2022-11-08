@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn Python. You can see my projects. Here on my profyle.
 - 🌱 I’m currently learning Python, JS, and PHP.
 - 💞️ I’m looking to collaborate on projects..
--    My Codepen Projects... https://codepen.io/skullfac3
+- :art:  My Codepen Projects... https://codepen.io/skullfac3
 - 📫 How to reach me ...
 - 
 
