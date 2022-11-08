@@ -5,7 +5,6 @@
 - :earth_americas: JS
 - :bookmark_tabs: HTML5
 - :art: CSS3
--
 - 💞️ I’m looking to collaborate on projects..
 - :art:  My Codepen Projects... https://codepen.io/skullfac3
 - 📫 How to reach me ...
