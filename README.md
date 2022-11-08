@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on projects..
 - :art:  My Codepen Projects... https://codepen.io/skullfac3
 - 📫 How to reach me ...
-- 
+- Instagram... erick_guz
+- Facebook... https://www.facebook.com/Herichx
 
 <!---
 Skullfac3/Skullfac3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
