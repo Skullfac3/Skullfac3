@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Erick Baltazar
-- 👀 I’m interested in learn about new technologies. You can see my projects. Here on my profyle.
+- 👋 Hi, I’m Erick Baltazar, I like videogames, technology, electronic music, web design and 3D design. 
+- :facepunch: I am self-taught, I like to find solutions, challenges, collaborate with people interested in the field.
+- 👀 I’m interested in learn about new technologies. You can see my projects here on my profyle.
 - 🌱 I’m currently learning...
 - :snake: Python 
 - :earth_americas: JS
